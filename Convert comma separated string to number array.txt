@@ -1,0 +1,1 @@
+let newNumberArray = stringArray.split(',').map((i) => { return Number(i); });
